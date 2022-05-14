@@ -1,0 +1,9 @@
+function multiply;;;;;;
+;i;i <= num2;conta = add(num1, conta);conta;i++;return
+;1;true;add (4 + 0) = 4;4;1 + 1 = 2;-
+;2;true;add (4 + 4) = 8;8;2 + 1 = 3;-
+;3;true;add (4 + 8) = 12;12;3 + 1 = 4;-
+;4;true;add (4 + 12) = 16;16;4 + 1 = 5;-
+;5;true;add (4 + 16) = 20;20;5 + 1 = 6;-
+;6;true;add (4 + 20) = 24;24;6 + 1 = 7;-
+;7;false;-;-;-;24
